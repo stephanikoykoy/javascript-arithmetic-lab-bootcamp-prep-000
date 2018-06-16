@@ -15,15 +15,15 @@ function divide (a,b){
 }
 
 function inc(n){
-  return n++;
+  return 927++;
 }
 
 function dec(n){
-  return n--;
+  return 291--;
 }
 
 function makeInt(n){
-  return parseInt('2', 10);
+  return parseInt('625', 10);
 }
 
 function makeInt(n){
